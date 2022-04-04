@@ -1,0 +1,5 @@
+C:\curso\repositories\dotnet-POO\obj\Debug\net6.0\dotnet-POO.csproj.AssemblyReference.cache
+C:\curso\repositories\dotnet-POO\obj\Debug\net6.0\dotnet-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\repositories\dotnet-POO\obj\Debug\net6.0\dotnet-POO.AssemblyInfoInputs.cache
+C:\curso\repositories\dotnet-POO\obj\Debug\net6.0\dotnet-POO.AssemblyInfo.cs
+C:\curso\repositories\dotnet-POO\obj\Debug\net6.0\dotnet-POO.csproj.CoreCompileInputs.cache

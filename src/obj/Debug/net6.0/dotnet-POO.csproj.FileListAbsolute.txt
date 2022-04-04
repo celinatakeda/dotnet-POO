@@ -1,0 +1,15 @@
+C:\curso\repositories\dotnet-POO\src\bin\Debug\net6.0\dotnet-POO.exe
+C:\curso\repositories\dotnet-POO\src\bin\Debug\net6.0\dotnet-POO.deps.json
+C:\curso\repositories\dotnet-POO\src\bin\Debug\net6.0\dotnet-POO.runtimeconfig.json
+C:\curso\repositories\dotnet-POO\src\bin\Debug\net6.0\dotnet-POO.dll
+C:\curso\repositories\dotnet-POO\src\bin\Debug\net6.0\ref\dotnet-POO.dll
+C:\curso\repositories\dotnet-POO\src\bin\Debug\net6.0\dotnet-POO.pdb
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.csproj.AssemblyReference.cache
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.AssemblyInfoInputs.cache
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.AssemblyInfo.cs
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.csproj.CoreCompileInputs.cache
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.dll
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\ref\dotnet-POO.dll
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.pdb
+C:\curso\repositories\dotnet-POO\src\obj\Debug\net6.0\dotnet-POO.genruntimeconfig.cache
