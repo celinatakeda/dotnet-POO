@@ -22,7 +22,7 @@ namespace dotnet__POO.src.Entities
 
         public virtual string Attack() 
         { 
-            return this.Name + "Atacou com a sua espada";
+            return this.Name + " Atacou com a sua espada";
         }
 
         
