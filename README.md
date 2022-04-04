@@ -1,4 +1,4 @@
-# Orientada a Objeto com C#
+# Programação Orientada a Objeto com C#
 
 Projeto usando Programação Orientada a  Objeto com C#.
 
